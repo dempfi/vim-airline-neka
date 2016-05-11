@@ -12,13 +12,13 @@
 
 " Normal mode                                    " fg             & bg
 let s:N1 = [ '#005f00' , '#afd700' , 22  , 148 ] " darkestgreen   & brightgreen
-let s:N2 = [ '#9e9e9e' , '#162C38' , 247 , 236 ] " gray8          & gray2
-let s:N3 = [ '#ffffff' , '#0A1921' , 231 , 233 ] " white          & gray4
+let s:N2 = [ '#A3BECC' , '#102538' , 247 , 236 ] " gray8          & gray2
+let s:N3 = [ '#E7E9EB' , '#0B1926' , 231 , 233 ] " white          & gray4
 
 " Insert mode                                    " fg             & bg
-let s:I1 = [ '#005f5f' , '#ffffff' , 23  , 231 ] " darkestcyan    & white
-let s:I2 = [ '#5fafd7' , '#0087af' , 74  , 31  ] " darkcyan       & darkblue
-let s:I3 = [ '#87d7ff' , '#005f87' , 117 , 24  ] " mediumcyan     & darkestblue
+let s:I1 = [ '#005F5F' , '#ffffff' , 23  , 231 ] " darkestcyan    & white
+let s:I2 = [ '#8CD9FF' , '#0087AF' , 74  , 31  ] " darkcyan       & darkblue
+let s:I3 = [ '#87d7ff' , '#005F87' , 117 , 24  ] " mediumcyan     & darkestblue
 
 " Visual mode                                    " fg             & bg
 let s:V1 = [ '#080808' , '#ffaf00' , 232 , 214 ] " gray3          & brightestorange
